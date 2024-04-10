@@ -26,4 +26,4 @@ ${A}^{c} = 1 - {P(A)}$
 - **Union or intersection:** the probability of intersection of two events ***A*** and ***B*** is $P(A \cap B)$. When the event A occurs in union to B, we define the probability as: $P(A \cap B) = P(A) + P(B) - P(A \cup B)$. Also referred to as: **addition rule of probability.**
 - **Mutually exclusive:** Where the two events have non-overlapping outcomes.  If ***A*** and ***B*** are mutually exclusive events, then, $P(A \cap B) = 0$. i.e:
 
-$$P(A \cup B) = P(A)  + P(B)
+$P(A \cup B) = P(A)  + P(B)$
