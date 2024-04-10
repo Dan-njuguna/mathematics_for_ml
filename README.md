@@ -17,7 +17,7 @@
 $P(A) = \sum_{i=1}^{n}P(E_i)$
 
 where;
-$P(A) = {No. of outcomes in A} \div_ {No. of outcomes in S}$
+$P(A) = {No. of outcomes in A} \frac_ {No. of outcomes in S}$
 
 ### Outcomes
 
