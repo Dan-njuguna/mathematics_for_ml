@@ -14,7 +14,7 @@
 
 - If ***A*** is an event of an experiment and it contains ***n*** outcomes and ***S*** is the sample space then:
 
-$P(A) = {i=1}{\sum_}^{n}P(E_i)$
+$P(A) = \sum_{i=1}^{n}P(E_i)$
 
 where;
 $P(A) = {No. of outcomes in A}\div_{No. of outcomes in S}$
