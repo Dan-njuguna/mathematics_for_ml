@@ -19,9 +19,7 @@ P(A) = \displaystyle\sum_{i=1}^{n}P(E_i)
 $$
 
 where;
-$$
-P(A) = \frac{\text{No. of outcomes in A}}{\text{No. of outcomes in S}}
-$$
+$P(A) = \frac{\text{No. of outcomes in A}}{\text{No. of outcomes in S}}$
 
 ### Outcomes
 
