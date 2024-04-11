@@ -14,10 +14,14 @@
 
 - If ***A*** is an event of an experiment and it contains ***n*** outcomes and ***S*** is the sample space then:
 
-$P(A) = \displaystyle\sum_{i=1}^{n}P(E_i)$
+$$
+P(A) = \displaystyle\sum_{i=1}^{n}P(E_i)
+$$
 
 where;
-$P(A) = \frac{\text{No. of outcomes in A}}{\text{No. of outcomes in S}}$
+$$
+P(A) = \frac{\text{No. of outcomes in A}}{\text{No. of outcomes in S}}
+$$
 
 ### Outcomes
 
@@ -26,4 +30,6 @@ ${A}^{c} = 1 - {P(A)}$
 - **Union or intersection:** the probability of intersection of two events ***A*** and ***B*** is $P(A \cap B)$. When the event A occurs in union to B, we define the probability as: $P(A \cap B) = P(A) + P(B) - P(A \cup B)$. Also referred to as: **addition rule of probability.**
 - **Mutually exclusive:** Where the two events have non-overlapping outcomes.  If ***A*** and ***B*** are mutually exclusive events, then, $P(A \cap B) = 0$. i.e:
 
-$P(A \cup B) = P(A)  + P(B)$
+$$
+P(A \cup B) = P(A)  + P(B)
+$$
