@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include <math.h>
 /**
- * main - Entry point
+ * @brief main - Entry point
  * Return: Always 0
 */
 int main(void)
 {
     /**
-     * This program checks the probability of Mike
+     * @brief This program checks the probability of Mike
      * and Alice meeting in a romantic setup
-     * @mb: Probability of Mike travelling by bus
-     * @ab: Probability of Alice travelling by bus
-     * @rb: Probability of rain
+     * @param mb: Probability of Mike travelling by bus
+     * @param ab: Probability of Alice travelling by bus
+     * @param rb: Probability of rain
      */
     float mb, ab, rb;
     float meet_prob; /*Meeting probability*/
