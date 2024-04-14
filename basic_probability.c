@@ -12,9 +12,10 @@ int main(void)
      * @param mb: Probability of Mike travelling by bus
      * @param ab: Probability of Alice travelling by bus
      * @param rb: Probability of rain
+     * @param meet_prob: Meeting probability
      */
     float mb, ab, rb;
-    float meet_prob; /*Meeting probability*/
+    float meet_prob;
 
     printf("Enter the probabilities of Mike and Alice travelling by bus and\
     that of rain respectively eacy on a new blank line(0 <= P <= 1).\n");
