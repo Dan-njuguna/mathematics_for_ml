@@ -40,7 +40,7 @@ $$
 
 - **Mean**: It is the average value gotten of the total values of multiple numbers. Example:
 
-$\text{mean} = \frac{\text{\displaystyle{\sum_{i=0}^{n}Values}}}{\text{\displaystyle{\sum_{i=0}No.}}}$
+$\text{mean} = \frac{\text{\sum_{i=0}^{n}Values}}{\text{\sum_{i=0}No.}}$
 
 -**Mode**: Is the most repeated value. Can be one set of modal values or more.
 -**Median**: Is the center most value.
