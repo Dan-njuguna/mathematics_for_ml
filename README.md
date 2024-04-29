@@ -40,7 +40,8 @@ $$
 
 - **Mean**: It is the average value gotten of the total values of multiple numbers. Example:
 
-$\text{mean} = \frac{\text{\sum_{i=0}^{n}Values}}{\text{\sum_{i=0}No.}}$
+$<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mover accent="true"><mi>x</mi><mo>ˉ</mo></mover><mo>=</mo><mfrac><mn>1</mn><mi>n</mi></mfrac><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msub><mi>x</mi><mi>i</mi></msub></mrow><annotation encoding="application/x-tex">\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
+</annotation></semantics></math>$
 
 -**Mode**: Is the most repeated value. Can be one set of modal values or more.
 -**Median**: Is the center most value.
