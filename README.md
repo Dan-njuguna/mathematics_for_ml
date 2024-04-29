@@ -31,3 +31,24 @@ ${A}^{c} = 1 - {P(A)}$
 $$
 P(A \cup B) = P(A)  + P(B)
 $$
+
+## MEAN, MODE & MEDIAN
+
+- Solving a statistical problem that involves mean, mode and median requires good Mathematical understanding of the topics.
+
+### MEAN
+
+- **Mean**: It is the average value gotten of the total values of multiple numbers. Example:
+
+$\text{mean} = \frac{\text{\displaystyle{\sum_{i=0}^{n}Values}}}{\text{\displaystyle{\sum_{i=0}No.}}}$
+
+-**Mode**: Is the most repeated value. Can be one set of modal values or more.
+-**Median**: Is the center most value.
+
+- Given the definitions for the above. We should tackle a simple challenge(I specifically used a HackerRank Challenge.)
+
+#### Question:
+
+- _Calculate the mean, median and modal values for an array X, having N integers in it. If there are more than 1 modal values, the one with least numerical value is used. Modal value should be an integer while the mode and median should be decimals written to 1 decimal place._
+
+- [Solution](mean_median_mode.c)
