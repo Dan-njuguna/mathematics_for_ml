@@ -40,7 +40,9 @@ $$
 
 - **Mean**: It is the average value gotten of the total values of multiple numbers. Example:
 
-$\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i$
+$$
+\bar{x} = \frac{1}{n} \displaystyle\sum_{i=1}^{n} x_i
+$$
 
 -**Mode**: Is the most repeated value. Can be one set of modal values or more.
 -**Median**: Is the center most value.
