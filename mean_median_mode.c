@@ -1,6 +1,4 @@
 #include "stats.h"
-#include <stdio.h>
-#include <stdlib.h>
 /**
  * mean - This function calculates the mean of a list.
  * @lst: the array of integers.
