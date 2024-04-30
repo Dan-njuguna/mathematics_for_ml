@@ -49,8 +49,34 @@ $$
 
 - Given the definitions for the above. We should tackle a simple challenge(I specifically used a HackerRank Challenge.)
 
-#### Question:
+#### Question
 
-- _Calculate the mean, median and modal values for an array X, having N integers in it. If there are more than 1 modal values, the one with least numerical value is used. Modal value should be an integer while the mode and median should be decimals written to 1 decimal place._
+- ***Calculate the mean, median and modal values for an array X, having N integers in it. If there are more than 1 modal values, the one with least numerical value is used. Modal value should be an integer while the mode and median should be decimals written to 1 decimal place.***
 
-- [Solution](mean_median_mode.c)
+- [Solution](mean_mode_median.c)
+
+## WEIGHTED MEAN
+
+- You would ask, what is weighted mean? Well, not until we have C at hand to manouver this challenge. Then let's first give a brief explanation of ***weigthed mean*** and the challenge we should be ready to tackle.
+
+- **Weighted mean**: is a type of average that assigns different weights to values in a dataset. (Oh! I forgot to mention we are now going into the realms of Machine Learning!)
+- Unlike [regular arithmetic mean](mean_median_mode.c),  it considers **relative significance** of each value.
+
+### Formula
+
+$$
+\text{Weighted Mean} = \frac{\sum (w \cdot x)}{\sum w}
+$$
+
+### Challenge
+
+- _Given Arrays X and W of length N. Representing the respective weights of X's, calculate the and print the weighted mean of X's elements. Answer given in 1 decimal place*
+
+### Solution
+
+- Find Solution [Here](weightedmean.c).
+
+## References
+
+- [HackerRank]("https://www.hackerrank.com/domains/tutorials/10-days-of-statistics")
+- [HackerEarth]("https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/")
