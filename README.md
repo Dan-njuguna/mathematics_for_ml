@@ -70,7 +70,7 @@ $$
 
 ### Challenge
 
-- _Given Arrays X and W of length N. Representing the respective weights of X's, calculate the and print the weighted mean of X's elements. Answer given in 1 decimal place*
+- ***Given Arrays X and W of length N. Representing the respective weights of X's, calculate the and print the weighted mean of X's elements. Answer given in 1 decimal place.***
 
 ### Solution
 
@@ -78,5 +78,5 @@ $$
 
 ## References
 
-- [HackerRank]("https://www.hackerrank.com/domains/tutorials/10-days-of-statistics")
-- [HackerEarth]("https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/")
+- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+- [HackerEarth](https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/)
