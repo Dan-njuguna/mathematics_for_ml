@@ -124,7 +124,7 @@ $$
 
 - ***Calculate the mean, median and modal values for an array X, having N integers in it. If there are more than 1 modal values, the one with least numerical value is used. Modal value should be an integer while the mode and median should be decimals written to 1 decimal place.***
 
-- [Solution](mean_mode_median.c)
+- [Solution](mean_median_mode.c)
 
 ## WEIGHTED MEAN
 
